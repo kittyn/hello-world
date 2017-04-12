@@ -4,17 +4,21 @@
 <head>
 
 <style>
-h1 {
-color:red;
+div.help {
+background-color:black;
 }
-
 </style>
 
 <body>
 
-<h1>Attempting to code.</h1>
-<p>This might go very badly but hey, that's life.</p>
+<div class="help">
+<h1>How does html even work</h1>
+<h2>Apparently I can't use CSS. Unless I'm missing something obvious.</h2>
+</div>
 
-</head>
+<h1>Attempting to code.</h1>
+<p>This might go <strong>very</strong> badly but hey, that's life.</p>
+
 </body>
+</head>
 </html>
