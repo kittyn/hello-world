@@ -1,4 +1,20 @@
 # hello-world
-Just another repository
+<!DOCTYPE html>
+<html>
+<head>
 
-Hello.
+<style>
+h1 {
+color:red;
+}
+
+</style>
+
+<body>
+
+<h1>Attempting to code.</h1>
+<p>This might go very badly but hey, that's life.</p>
+
+</head>
+</body>
+</html>
